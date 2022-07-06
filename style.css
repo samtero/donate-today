@@ -31,24 +31,21 @@ h2 {
 }
 
 h3 {
-    color: brown;
+    color: rgb(244, 25, 25);
 }
 
 p {
     font-size: 18px;
     line-height: normal;
-
-
 }
 
 .link-button {
     text-decoration: none;
-    padding: 5px 25px;
+    padding: 5px 10px;
     border-radius: 7px;
     background-image: linear-gradient(red, tomato);
     color: aliceblue;
     font-weight: 700;
-
 }
 
 .second-section {
@@ -84,7 +81,6 @@ p {
 
 .amount {
     color: gray;
-
 }
 
 .donation {
@@ -93,7 +89,6 @@ p {
 
 #first {
     text-align: center;
-
 }
 
 .green {
@@ -136,13 +131,17 @@ p {
 
 .second-para {
     box-sizing: border-box;
-    width: 10px 30px;
     background-color: bisque;
     margin: 10px;
-
     text-align: center;
     box-shadow: 10px 10px 40px gainsboro;
     block: size 50px;
+}
+
+.register {
+    background-color: rgb(236, 39, 39);
+    color: white;
+    margin-left: 0;
 }
 
 .footer-div {
