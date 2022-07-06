@@ -1,0 +1,139 @@
+body {
+    margin: auto;
+    overflow: scroll;
+    font-family: 'Gulzar', serif;
+}
+
+#main {
+    background-image: url(images/donation1.jpg);
+    background-color: azure;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: 1300px 500px;
+    text-align: center;
+    color: yellow;
+}
+
+h1 {
+    padding: 10px;
+    font-size: 60px;
+    font-weight: 700;
+    column-gap: 100px;
+    margin-bottom: -20px;
+}
+
+h2 {
+    padding: 10px;
+    font-size: 40px;
+    font-weight: 300px;
+}
+
+h3 {
+    color: brown;
+}
+
+p {
+    font-size: 18px;
+    line-height: normal;
+
+
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 5px 25px;
+    border-radius: 7px;
+    background-image: linear-gradient(red, tomato);
+    color: aliceblue;
+    font-weight: 700;
+
+}
+
+.second-section {
+    padding-top: 5%;
+    padding: auto;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400px;
+}
+
+.button {
+    display: block;
+    border: none;
+    padding: 30px 50px;
+    font-size: 50px;
+    font-weight: 700px;
+    background-color: azure;
+    margin: 20px;
+}
+
+.amount {
+    color: gray;
+
+}
+
+.donation {
+    display: flex;
+}
+
+#first {
+    text-align: center;
+
+}
+
+.green {
+    background-color: rgb(151, 234, 206);
+    padding: 20px;
+}
+
+.red {
+    background-color: rgb(248, 145, 145);
+    padding: 20px;
+}
+
+.yellow {
+    background-color: rgb(249, 249, 182);
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.flexible-container {
+    display: flex;
+    padding: 5px 10px;
+}
+
+.position {
+    padding-top: 200px;
+    padding-right: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.texte {
+    width: 40%;
+    padding-left: 20px;
+}
+
+.second-para {
+    box-sizing: border-box;
+    width: 10px 30px;
+    background-color: bisque;
+    margin: 10px;
+
+    text-align: center;
+    box-shadow: 10px 10px 40px gainsboro;
+    block: size 50px;
+}
+
+.footer-div {
+    max-height: 200px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 0%;
+}
